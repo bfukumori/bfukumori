@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, stranger</h1>
+<h1 align="center">Hello!</h1>
 <h3 align="center">A Web Developer Student focused on learning how to start programming</h3>
 
 - 👨‍💻 I’m currently studying at [Origamid](https://www.origamid.com/) and [Rocketseat](https://app.rocketseat.com.br/) and free videos on Youtube
