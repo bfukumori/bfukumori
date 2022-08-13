@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
-<h3 align="center">A Web Developer Student focused on learning how to start programming</h3>
+<h3 align="center">A self taught Web Developer Student focused on learning how to start programming</h3>
 
-- 👨‍💻 I’m currently studying at [Origamid](https://www.origamid.com/) and [Rocketseat](https://app.rocketseat.com.br/) and free videos on Youtube
+- 👨‍💻 I’m currently studying at [Origamid](https://www.origamid.com/) and [Rocketseat](https://app.rocketseat.com.br/) focusing in frontend with React and React Native
 
 - 🎹 I'm trying to learn how to play the piano too via Youtube and some books 
 
