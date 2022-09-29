@@ -1,5 +1,5 @@
 <h1 align="center">Hello!</h1>
-<h3 align="center">A self taught Web Developer Student focused on learning how to start programming</h3>
+<h3 align="center">Self taught developer seeking first opportunity to change carrer!</h3>
 
 - 👨‍💻 I’m currently studying at [Rocketseat](https://app.rocketseat.com.br/) focusing in frontend with React and React Native
 
