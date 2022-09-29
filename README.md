@@ -7,6 +7,46 @@
 
 - 🐱‍👤 Fun fact **I'm a biomedic by profession 👨‍🔬**
 
+#### Stacks
+
+<table>
+<tr>
+<th>Frontend</th>
+<th>Backend</th>
+<th>Others</th>
+</tr>
+<tr>
+<td>
+<pre>
+- HTML
+- CSS
+- Javascript
+- React
+- React Native
+</pre>
+</td>
+<td>
+<pre>
+- NodeJS
+- ExpressJS
+- REST API
+- SQL/No-SQL
+</pre>
+</td>
+<td>
+<pre>
+- Prisma
+- GraphQL
+- CMS
+- NextJS
+- Expo
+- Tailwind
+- Styled Components
+</pre>
+</td>
+</tr>
+</table>
+
  <div>
   <a href="https://github.com/bfukumori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfukumori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
