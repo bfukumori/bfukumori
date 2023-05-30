@@ -1,7 +1,7 @@
 <h1 align="center">Hello!</h1>
 <h3 align="center">Self taught developer seeking first opportunity to change career!</h3>
 
-- 👨‍💻 I’m currently studying at [Rocketseat](https://app.rocketseat.com.br/) focusing in frontend with React and React Native
+- 👨‍💻 I’m currently studying Software Engineering (1st year) at FIAP and doing some extra courses at Rocketseat.
 
 - 🎹 I'm trying to learn how to play the piano too via Youtube and some books 
 
