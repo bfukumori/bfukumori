@@ -28,22 +28,20 @@
 <td>
 <pre>
 - NodeJS
-- ExpressJS
 - REST API
-- SQL/No-SQL
 </pre>
 </td>
 <td>
 <pre>
-- Prisma
 - GraphQL
-- CMS
 - NextJS
-- Expo
-- Tailwind
+- TailwindCSS
 - Styled Components
-- Recoil
 - Typescript
+- NestJS
+- Python
+- Java
+- C#
 </pre>
 </td>
 </tr>
