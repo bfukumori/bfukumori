@@ -1,52 +1,63 @@
-<h1 align="center">Hello!</h1>
-<h3 align="center">Self taught developer seeking first opportunity to change career!</h3>
+# Welcome!
 
-- 👨‍💻 I’m currently studying Software Engineering (2nd year) at FIAP and doing some extra courses at Rocketseat.
 
-- 🎹 I'm trying to learn how to play the piano too via Youtube and some books 
+- 👨‍💻 I’m a former biomedic who changed carrer in 2022 to be a developer.
+- Currently I'm studying Software Engineering (2nd year) at FIAP and working as a frontend developer, but I'm highly motivated to transition into backend development.
 
-- 🐱‍👤 Fun fact **I'm a biomedic by profession 👨‍🔬**
+~~~json
+{
+  "name": "Bruno Fukumori",
+  "email": "brunofukumori@gmail.com",
+  "education": "Software Engineer by FIAP (in-progress)",
+  "hard-skills": {
+    "main_stacks": [
+      "react",
+      "react-native",
+      "nodejs",
+      "html",
+      "css",
+      "javascript"
+    ],
+    "additional_skills": [
+      "git",
+      "docker",
+      "tailwind",
+      "styled-components",
+      "nextjs",
+      "nestjs",
+      "unit testing",
+      "integration testing",
+      "agile methodologies",
+      "python",
+      "java",
+      "c#"
+    ]
+  },
+  "soft-skills": [
+    "teamwork",
+    "communication",
+    "problem solving",
+    "time management",
+    "proactivity"
+  ],
+  "languages": [
+    {
+      "language": "Brazilian Portuguese",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Intermediate"
+    }
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/bfukumori/"
+  }
+}
+~~~
 
-#### Stacks
-
-<table>
-<tr>
-<th>Frontend</th>
-<th>Backend</th>
-<th>Others</th>
-</tr>
-<tr>
-<td>
-<pre>
-- HTML
-- CSS
-- Javascript
-- React
-- React Native
-</pre>
-</td>
-<td>
-<pre>
-- NodeJS
-- REST API
-</pre>
-</td>
-<td>
-<pre>
-- GraphQL
-- NextJS
-- TailwindCSS
-- Styled Components
-- Typescript
-- NestJS
-- Python
-- Java
-- C#
-- Docker
-</pre>
-</td>
-</tr>
-</table>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bfukumori&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
