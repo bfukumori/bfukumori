@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 I’m a former biomedic who changed carrer in 2022 to be a developer.
-- Currently I'm studying Software Engineering (2nd year) at FIAP and working as a frontend developer, but I'm highly motivated to transition into backend development.
+- Currently I'm studying Software Engineering (3nd year) at FIAP and working as a frontend developer, but I'm highly motivated to transition into backend development.
 
 ~~~json
 {
