@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 I’m a former biomedic who changed carrer in 2022 to be a developer.
-- Currently I'm studying Software Engineering (3nd year) at FIAP and working as a frontend developer, but I'm highly motivated to transition into backend development.
+- Currently I'm studying Software Engineering (last year) at FIAP and working as a fullstack developer.
 
 ~~~json
 {
@@ -21,16 +21,16 @@
     "additional_skills": [
       "git",
       "docker",
+      "kubernetes",
       "tailwind",
-      "styled-components",
       "nextjs",
       "nestjs",
       "unit testing",
       "integration testing",
       "agile methodologies",
-      "python",
-      "java",
-      "c#"
+      "c#",
+      ".net",
+      "typescript"
     ]
   },
   "soft-skills": [
