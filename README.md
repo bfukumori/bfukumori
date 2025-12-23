@@ -56,8 +56,7 @@
 }
 ~~~
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bfukumori&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## Techs
  
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
