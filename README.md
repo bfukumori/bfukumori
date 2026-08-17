@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Software Engineer focused on high-performance ecosystems and scalable architectures. Specialist in TypeScript across the full stack, with a deep interest in modern runtimes like Bun and high-efficiency frameworks like ElysiaJS.
+Experienced Software Engineer focused on high-performance ecosystems and scalable architectures. Specialist in TypeScript across the full stack (Node.js and React), with a deep interest in modern runtimes like Bun and high-efficiency frameworks like ElysiaJS.
 
 
 ## 🌐 Socials:
